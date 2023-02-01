@@ -1,0 +1,22 @@
+{
+  "name": "chainstack-goerli-faucet",
+  "version": "1.0.0",
+  "description": "Simple Goerli faucet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "goerli",
+    "faucet",
+    "web3",
+    "ethereum"
+  ],
+  "author": "Davide Zambiasi",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.8.2"
+  }
+}
